@@ -1,7 +1,5 @@
-nginx
-Copy
-Edit
 Flask
-numpy
-scikit-learn
 gunicorn
+numpy
+pandas
+scikit-learn
